@@ -11,4 +11,7 @@
   <template name="h" value="height: $END$;" description="height:...;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
+  <template name="to" value="text-outline: $END$;" description="text-outline:...;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
