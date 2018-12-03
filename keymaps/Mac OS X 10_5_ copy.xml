@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="PasteMultiple" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
