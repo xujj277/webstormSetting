@@ -1,17 +1,7 @@
 <templateSet group="Zen CSS">
-  <template name="m" value="margin: $END$;" description="margin:...;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="r" value="right: $END$;" description="right:...;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="l" value="left: $END$;" description="left:...;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="h" value="height: $END$;" description="height:...;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="to" value="text-outline: $END$;" description="text-outline:...;" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="m" value="margin: $END$;" description="margin:...;" toReformat="false" toShortenFQNames="true" />
+  <template name="r" value="right: $END$;" description="right:...;" toReformat="false" toShortenFQNames="true" />
+  <template name="l" value="left: $END$;" description="left:...;" toReformat="false" toShortenFQNames="true" />
+  <template name="h" value="height: $END$;" description="height:...;" toReformat="false" toShortenFQNames="true" />
+  <template name="to" value="text-outline: $END$;" description="text-outline:...;" toReformat="false" toShortenFQNames="true" />
 </templateSet>
