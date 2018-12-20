@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="JavaScript" />
+      <blacklist language="JSX Harmony">
+        <added pattern="ObjectConstructor.defineProperty(o,p,attributes)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
