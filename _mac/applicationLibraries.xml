@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="log-reporter" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_offline.bilibili.com_log_report_c_log-reporter.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_offline.bilibili.com_log_report_c_log-reporter.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="runtime.270f6" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__s1.hdslb.com_bfs_static_blive_topic-h5_static_js_runtime.270f6.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__s1.hdslb.com_bfs_static_blive_topic-h5_static_js_runtime.270f6.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
