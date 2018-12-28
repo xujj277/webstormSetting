@@ -88,6 +88,14 @@
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="0" />
   </codeStyleSettings>
