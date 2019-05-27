@@ -1,9 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="JavaScript" />
       <blacklist language="JSX Harmony">
         <added pattern="ObjectConstructor.defineProperty(o,p,attributes)" />
+      </blacklist>
+      <blacklist language="JavaScript" />
+      <blacklist language="ECMAScript 6">
+        <added pattern="setTimeout(handler,timeout,arguments)" />
       </blacklist>
     </blacklists>
   </component>
