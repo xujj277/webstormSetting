@@ -4,7 +4,13 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
 </keymap>
