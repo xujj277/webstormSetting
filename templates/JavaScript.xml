@@ -7,4 +7,5 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="///" value="/**&#10;*&#10;* @param {}&#10;*/" toReformat="false" toShortenFQNames="true" />
 </templateSet>
