@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="ActivateleetcodeToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
