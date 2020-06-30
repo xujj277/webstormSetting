@@ -17,7 +17,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta alt g" />
   </action>
 </keymap>
