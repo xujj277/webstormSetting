@@ -7,6 +7,9 @@
   <action id="ActivateleetcodeToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
