@@ -1,0 +1,21 @@
+<application>
+  <component name="OSFileAssociationPreferences">
+    <option name="fileTypeNames">
+      <list>
+        <option value="CSS" />
+        <option value="HTML" />
+        <option value="HTML-x-htm" />
+        <option value="HTML-x-ng" />
+        <option value="HTML-x-sht" />
+        <option value="HTML-x-shtm" />
+        <option value="HTML-x-shtml" />
+        <option value="JavaScript" />
+        <option value="Markdown" />
+        <option value="TypeScript" />
+        <option value="TypeScript JSX" />
+        <option value="Vue.js" />
+      </list>
+    </option>
+    <option name="ideLocationHash" value="0894479A4899592EFD36045D6CE4B21B" />
+  </component>
+</application>
