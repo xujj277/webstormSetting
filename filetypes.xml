@@ -1,9 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="page1.vue" type="AUTO_DETECTED" />
       <mapping pattern="store" type="PLAIN_TEXT" />
-      <mapping ext="tcss" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="tcss" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
