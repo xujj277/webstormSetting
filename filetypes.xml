@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="InstallmentFill.vue" type="AUTO_DETECTED" />
       <mapping pattern="store" type="PLAIN_TEXT" />
       <mapping pattern=".env.uatserve" type="PLAIN_TEXT" />
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
