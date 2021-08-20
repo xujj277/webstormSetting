@@ -5,6 +5,7 @@
       <mapping pattern="store" type="PLAIN_TEXT" />
       <mapping pattern=".env.uatserve" type="PLAIN_TEXT" />
       <mapping pattern=".env.uat" type="PLAIN_TEXT" />
+      <mapping pattern=".env.zb" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="tcss" type="PLAIN_TEXT" />
       <removed_mapping pattern="page1.vue" approved="true" type="AUTO_DETECTED" />
