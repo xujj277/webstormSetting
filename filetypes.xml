@@ -9,6 +9,7 @@
       <mapping ext="ip" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="tcss" type="PLAIN_TEXT" />
+      <mapping pattern="newTimeButton" type="Vue.js" />
       <removed_mapping pattern="page1.vue" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
